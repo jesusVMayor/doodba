@@ -21,7 +21,7 @@ BTW, we use [Debian][]. I hope you like that.
 [debian]: https://debian.org/
 
 ## Why?
-.
+
 Because developing Odoo is hard. You need lots of customizations, dependencies, and if
 you want to move from one version to another, it's a pain.
 
